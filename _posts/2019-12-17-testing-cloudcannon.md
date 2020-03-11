@@ -12,3 +12,11 @@ permalink: '/:categories/:slug/'
 ---
 
 Testando cloudcannon, vai que vai?
+
+Com imagem e tudo
+
+* sdsf
+* sdsds
+* [sdsd](mailto:info@nicholasfrota.com?subject=test&amp;body=test){: target="_blank"}
+
+![](/uploads/ery57mwwsaipcjw.jpg){: width="1024" height="1024"}
