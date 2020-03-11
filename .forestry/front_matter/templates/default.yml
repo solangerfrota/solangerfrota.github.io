@@ -23,3 +23,5 @@ fields:
 - type: text
   name: permalink
   label: permalink
+pages:
+- _posts/testing-forestry.md
